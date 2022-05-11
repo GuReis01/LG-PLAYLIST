@@ -14,8 +14,5 @@ Com mais de 10 músicas por gênero músical!
 ## Técnologias Utilizadas:
  + HTML
  + CSS
-> Como rodar o site:
-1) Baixe todos os arquivos da pasta "Playlist";
-2) Coloque todos em uma única pasta em seu computador;
-3) Abra o arquivo "index.html" com o browser de sua preferência, e aproveite!;
-4) Não esqueca de deixar seu comentário aqui no GitHub.
+> clique no link para rodar o site:
+ https://gureis01.github.io/LG-PLAYLIST/
